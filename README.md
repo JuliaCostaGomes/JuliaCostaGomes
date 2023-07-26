@@ -3,7 +3,9 @@
 My name is JuliaCostaGomes
 
 -I Am study at (Alura0
+
 -I Have 15 old years
+
 -I Am study in school in Flórida
 
 -You can contact me = 
