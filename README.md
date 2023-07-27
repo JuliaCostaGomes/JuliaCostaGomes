@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is JuliaCostaGomes
+My name is Julia Costa Gomes
 
 -I Am study at Alura0
 
